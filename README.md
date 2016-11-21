@@ -1,1 +1,0 @@
-Conteúdos abordados em certificações
