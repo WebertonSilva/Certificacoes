@@ -1,2 +1,2 @@
 # Certificacoes
-Conteúdos abordados em certificações
+Conteúdo abordados em certificações
